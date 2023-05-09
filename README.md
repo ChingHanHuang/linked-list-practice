@@ -10,7 +10,7 @@ Singly Linked List implemented with JavaScript
 - `head()` returns the first node in the list
 - `tail()` returns the last node in the list
 - `at(index)` returns the node at the given index or error message if there is no node in the requested index
-- `pop()` removes the last element from the list and returns the pop node
+- `pop()` removes the last element from the list and returns the popped node
 - `contains(value)` returns true if the passed in value is in the list and otherwise returns false
 - `find(value)` returns the index of the node containing value, or null if not found
 - `toString()` returns your LinkedList objects as strings in the format: ( value ) -> ( value ) -> ( value ) -> null
