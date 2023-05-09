@@ -1,0 +1,23 @@
+{
+  "name": "linked-list-practice",
+  "version": "1.0.0",
+  "description": "Practice linked list with The Odin Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.21.8",
+    "@babel/preset-env": "^7.21.5",
+    "babel-jest": "^29.5.0",
+    "eslint": "^8.25.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-import": "^2.26.0",
+    "jest": "^29.5.0",
+    "jest-cli": "^29.5.0",
+    "prettier": "2.7.1"
+  }
+}
